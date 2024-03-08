@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Prakhar Verma</h1>
-<h3 align="center">AI & ML Engineer</h3>
+<h3 align="center">Penetration tester</h3>
 
-- 🌱 I’m currently learning **Machine Learning using Python and How to train,build and deploy the model**
+- 🌱 I’m currently learning **Offensive Security**
 
 - 📝 I regularly write articles on [https://medium.com/@Prakharvr](https://medium.com/@Prakharvr)
 
-- 💬 Ask me about **ML & AI related topics**
+- 💬 Ask me about **Python and Cybersecurity related Topics**
 
 - 📫 How to reach me **prakhar12.rv@gmail.com , +91 8787013017**
 
